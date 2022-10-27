@@ -11,13 +11,9 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Cyan: #2ab2af
-- Bright Yellow: #c0df34
 
 ### Neutral
 
-- Light Gray: #e5eff5
-- Grayish Blue: #98a6bd
 
 ## Typography
 
